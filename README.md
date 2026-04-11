@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pooja02508" alt="pooja02508" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps Jenkins, Docker, Kubernetes, Ansible, Script**
+- 🌱 I’m currently learning **DevOps, CI/CD Pipeline, Jenkins, Docker, Kubernetes, Ansible, Script**
 
 - 🌱 I’ve worked on **Jetpack Compose, Kotlin, Flutter, iOS, SwiftUI**
 
